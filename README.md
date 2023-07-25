@@ -11,7 +11,13 @@
   - **Frontend:** HTML5/CSS, Bootstrap, ReactJS, Tailwind CSS
   - **Backend:** Node.js and Express.js. Familiar with RESTful APIs and serverless architectures.
 - **Database:**  MongoDB , MySQL
-- **Blockchain:** Exploring blockchain technology and its applications.
+- **Blockchain:** Ethereum, web3.js, Solidity<br/>
+
+### 🔍 Currently Exploring: 
+
+- **deFi (Decentralized Finance)**
+- **dApps (Decentralized Applications)**
+- **NFTs (Non-Fungible Tokens)**
 
 ### Toolbox 🧰
 
@@ -29,6 +35,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" height="40">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="MySQL" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" height="40">
+  <img src="https://d33wubrfki0l68.cloudfront.net/fcd4ecd90386aeb50a235ddc4f0063cfbb8a7b66/4295e/static/bfc04ac72981166c740b189463e1f74c/40129/eth-diamond-black-white.jpg" alt="Ethereum" height="40">
 </div>
 <br/>
 

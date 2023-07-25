@@ -30,7 +30,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" height="40">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="MySQL" height="40">
 </div>
+<br/>
 
-
+###  Connect with Me 🤝
+<br/>
+<a href="https://www.linkedin.com/in/aishwarya-ravi-532667195/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn" width="160" height="30">
+</a>
+<br/>
 <br/>
 Thank you for visiting my profile! Let's connect and create something amazing together! 🚀🌟

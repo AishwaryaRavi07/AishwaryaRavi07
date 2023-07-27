@@ -40,6 +40,9 @@
 </div>
 <br/>
 
+
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaRavi07&show_icons=true&theme=tokyonight)
+
 ###  Connect with Me 🤝
 <br/>
 <a href="https://www.linkedin.com/in/aishwarya-ravi-532667195/" target="_blank">

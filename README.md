@@ -41,7 +41,7 @@
 <br/>
 
 
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaRavi07&show_icons=true&theme=tokyonight)
+[![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaRavi07&show_icons=true&theme=tokyonight)](https://github.com/AishwaryaRavi07/github-readme-stats)
 
 ###  Connect with Me 🤝
 <br/>

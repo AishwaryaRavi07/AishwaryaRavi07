@@ -10,8 +10,9 @@
 - **Web Development:**
   - **Frontend:** HTML5/CSS, Bootstrap, ReactJS, Tailwind CSS
   - **Backend:** Node.js and Express.js. Familiar with RESTful APIs and serverless architectures.
-- **Database:**  MongoDB , MySQL
-- **Blockchain:** Ethereum, web3.js, Solidity<br/>
+- **Databases:**  MongoDB , MySQL , Firebase
+- **Blockchain:** Ethereum, web3.js, Solidity
+- **Big Data Analytics:** Hadoop, Apache Spark, HIVE <br/>
 
 ### 🔍 Currently Exploring: 
 
